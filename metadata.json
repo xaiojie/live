@@ -1,0 +1,5 @@
+{
+  "name": "活着么 (Are You Alive?)",
+  "description": "A warm, minimal safety check-in tool for solo dwellers. It features daily check-ins, emergency contact alerts, and positive AI-generated greetings to provide safety without anxiety.",
+  "requestFramePermissions": []
+}
